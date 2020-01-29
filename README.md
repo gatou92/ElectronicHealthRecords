@@ -1,0 +1,15 @@
+# Electronic Health Records in PHP
+
+Thesis project conducted during my studies at Computer Engineering & Informatics department in Patras, Greece.
+#### Year : 2016
+
+## Description
+
+Electronic Patient Record System : Implementation of an electronic patient record application exporting real time statistics in order to improve health care efficiency and safety.
+
+## Version
+PHP version 5.6
+
+
+
+
