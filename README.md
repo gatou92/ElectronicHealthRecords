@@ -1,4 +1,4 @@
-# Electronic Health Records in PHP
+# PHP Electronic Health Records
 
 Thesis project conducted during my studies at Computer Engineering & Informatics department in Patras, Greece.
 #### Year : 2016
