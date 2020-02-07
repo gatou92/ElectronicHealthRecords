@@ -7,8 +7,9 @@ Thesis project conducted during my studies at Computer Engineering & Informatics
 
 Electronic Patient Record System : Implementation of an electronic patient record application exporting real time statistics in order to improve health care efficiency and safety.
 
-## Version
-PHP version 5.6
+## Technologies used
+Front end built using HTML5, CSS, JavaScript, jQuery, Ajax
+Back end  built using PHP5.6, MySQL, Apache Server
 
 
 
